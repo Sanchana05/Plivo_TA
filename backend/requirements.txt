@@ -1,0 +1,21 @@
+fastapi
+uvicorn[standard]
+whisper       # openai/whisper from pip (pip install -U openai-whisper)
+torch         # appropriate torch version (cpu/gpu)
+librosa
+numpy
+scikit-learn
+python-multipart
+pydantic
+pdfplumber
+python-docx
+transformers
+sentencepiece
+ftfy
+regex
+beautifulsoup4
+readability-lxml
+requests
+openai         # optional (for better summarization)
+python-dotenv
+aiofiles
